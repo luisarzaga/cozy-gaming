@@ -1,5 +1,6 @@
 # Cozy Gaming Proyect
-Portfolio in (https://lu42.notion.site/COZY-GAMING-PROJECT-640d9407ec1c4d5f90e4aa9925b2daa7?pvs=4)
+(https://lu42.notion.site/COZY-GAMING-PROJECT-640d9407ec1c4d5f90e4aa9925b2daa7?pvs=4)
+
 The "Cozy Gaming Data Analysis" project is an exploration of the emerging field of cozy gaming. Cozy gaming emphasizes relaxation, comfort, and self-care in gaming experiences. As an enthusiast of cozy gaming, I embarked on this project to dive into the data-driven aspects of this genre, aiming to uncover insights into player behavior and engagement factors. This project showcases my passion for gaming and my skills in data analysis using Python libraries.
 
 # Project Objectives
